@@ -2,6 +2,9 @@
 ロボットシステム学授業用レポジトリ
 
 # plusコマンド
+このプログラムは,標準入力から数値を読み取り,それらを合計して出力するPythonスクリプトです.
+Linuxの環境で使うことができます．
+
 ![test](https://github.com/taka-bnbn/robosys2024/actions/workflows/test.yml/badge.svg)
 
 
@@ -17,6 +20,7 @@
 ## テスト環境
 -Ubuntu 24.04 LTS
 
+## Copyright
 ©2024 Takaya Mizumaki
 
 
